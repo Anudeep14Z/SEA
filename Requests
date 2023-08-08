@@ -6,3 +6,8 @@ git config --list
 pwd
 ls -al
 gedit .gitconfig
+mkdir git_workspace
+cd 
+git clone paste 
+ls
+cd file name
